@@ -1,0 +1,10 @@
+{
+  "name": "akra-components-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "projectType": "application",
+  "sourceRoot": "apps/akra-components-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["akra-components"],
+  "// targets": "to see all targets run: nx show project akra-components-e2e --web",
+  "targets": {}
+}
