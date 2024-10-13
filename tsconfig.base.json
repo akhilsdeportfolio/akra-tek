@@ -14,7 +14,9 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "widgets/Module": ["apps/widgets/src/remote-entry.ts"]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
